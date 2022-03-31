@@ -1,6 +1,6 @@
 # airbnb-experiences-clone
 
-Mimicking the landing site of Airbnb Experiences using React
+## Mimicking the landing site of Airbnb Experiences using React
           
    -Check it out!: 
 
