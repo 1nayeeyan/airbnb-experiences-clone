@@ -2,6 +2,6 @@
 
 Mimicking the landing site of Airbnb Experiences using React
           
-    -Check it out!: 
+   -Check it out!: 
 
 https://1nayeeyan.github.io/airbnb-experiences-clone/
